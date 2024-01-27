@@ -25,7 +25,7 @@ body {
 	height: 100vh;
 	display: grid;
 	grid-template-columns: 5% auto 5%;
-	grid-template-rows: 140px 80px auto 100px 30px;
+	grid-template-rows: 140px 80px auto 100px 60px;
 	background: var(--bg);
 	/* mobile viewport bug fix */
 	height: -webkit-fill-available;
